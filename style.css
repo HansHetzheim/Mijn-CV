@@ -1,0 +1,47 @@
+.wrapper {
+  display: grid;
+  border: 2px solid #000;
+  grid-template-columns:30% 70%;
+  grid-template-rows: 1fr 3fr 1fr;
+  width: 100%;
+  max-width: 70%;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: 
+}
+
+.one{
+  border: 2px solid #000;
+  margin: 5px;
+  padding: 5px;
+
+}
+
+.two{
+  border: 2px solid #000;
+  margin: 5px;
+  padding: 5px;
+}
+.three{
+  border: 2px solid #000;
+  margin: 5px;
+  padding: 5px;
+}
+
+.four{
+  border: 2px solid #000;
+  margin: 5px;
+  padding: 5px;
+
+}
+
+.five{
+  border: 2px solid #000;
+  margin: 5px;
+  padding: 5px;
+}
+.six{
+  border: 2px solid #000;
+  margin: 5px;
+  padding: 5px;
+}
